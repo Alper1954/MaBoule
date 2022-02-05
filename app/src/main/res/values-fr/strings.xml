@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Soldat MaBoule</string>
+    <string name="maboule_mine">MaBoule a sauté sur une mine!</string>
+    <string name="maboule_obus">Maboule a été frappé par un missile!</string>
+    <string name="maboule_chute">MaBoule a fait une chute mortelle</string>
+    <string name="maboule_success1">MaBoule a détruit une partie des missiles.\n Continuez!</string>
+    <string name="maboule_success2">MaBoule a détruit une partie des missiles.\n Continuez!</string>
+    <string name="maboule_success3">Victoire! \n MaBoule a détruit tous les missiles ennemis</string>
+</resources>
